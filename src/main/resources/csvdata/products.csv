@@ -1,0 +1,568 @@
+Unnamed: 0,name,image,price,stock_quantity,brand,category
+0,1600,1600.png,8000,93,ABI,Animals
+1,550,550.png,3000,80,ABI,Animals
+2,CC 66,CC 66.png,14000,39,AEBI,Mower Vehicles
+3,1100,1100.png,1150,7,AGCO,Weights
+4,1500,1500.png,1600,65,AGCO,Weights
+5,2300,2300.png,2400,24,AGCO,Weights
+6,650,650.png,700,34,AGCO,Weights
+7,Combiplow Gold 3M,Combiplow Gold 3M.png,8600,67,AGRISEM,Subsoilers
+8,Combiplow Gold 4M,Combiplow Gold 4M.png,10500,90,AGRISEM,Subsoilers
+9,Cultiplow Platinum 8m,Cultiplow Platinum 8m.png,68000,32,AGRISEM,Subsoilers
+10,Disc-O-Vigne V,Disc-O-Vigne V.png,5000,54,AGRISEM,Subsoilers
+11,BTC 50H,BTC 50H.png,35000,49,AGROMASZ,Disc Harrows
+12,FALCON3,FALCON3.png,15000,76,AGROMASZ,Planters
+13,POV 5 XL,POV 5 XL.png,16000,90,AGROMASZ,Plows
+14,Bale King,Bale King.png,5600,39,ALBUTT,Front Loader Tools
+15,$l10n_shopItem_frontloaderBaleFork,$l10n_shopItem_frontloaderBaleFork.png,600,75,ALBUTT,Front Loader Tools
+16,$l10n_shopItem_frontloaderLogFork,$l10n_shopItem_frontloaderLogFork.png,3000,50,ALBUTT,Front Loader Tools
+17,$l10n_shopItem_frontloaderManureFork,$l10n_shopItem_frontloaderManureFork.png,1500,3,ALBUTT,Front Loader Tools
+18,$l10n_shopItem_frontloaderManureGrabFork,$l10n_shopItem_frontloaderManureGrabFork.png,2900,69,ALBUTT,Front Loader Tools
+19,$l10n_shopItem_frontloaderPalletFork,$l10n_shopItem_frontloaderPalletFork.png,1700,73,ALBUTT,Front Loader Tools
+20,$l10n_shopItem_frontloaderRoundBaleFork,$l10n_shopItem_frontloaderRoundBaleFork.png,1600,44,ALBUTT,Front Loader Tools
+21,$l10n_shopItem_frontloaderShovel,$l10n_shopItem_frontloaderShovel.png,1600,3,ALBUTT,Front Loader Tools
+22,$l10n_shopItem_frontloaderSilageCutter,$l10n_shopItem_frontloaderSilageCutter.png,3500,71,ALBUTT,Front Loader Tools
+23,$l10n_shopItem_frontloaderBaleGrab,$l10n_shopItem_frontloaderBaleGrab.png,1700,9,ALBUTT,Front Loader Tools
+24,$l10n_shopItem_telehandlerLogFork,$l10n_shopItem_telehandlerLogFork.png,6500,41,ALBUTT,Wheel Loader Tools
+25,$l10n_shopItem_wheelLoaderSilageFork,$l10n_shopItem_wheelLoaderSilageFork.png,10500,74,ALBUTT,Wheel Loader Tools
+26,Maratona MG-300,Maratona MG-300.png,19500,25,ALPEGO,Disc Harrows
+27,Rotodent RmaX-300,Rotodent RmaX-300.png,16500,30,ALPEGO,Power Harrows
+28,Cenio 4000 Super,Cenio 4000 Super.png,19500,82,AMAZONE,Cultivators
+29,Centaya 3000Super,Centaya 3000Super.png,23500,29,AMAZONE,Seeders
+30,Citan 15001-C,Citan 15001-C.png,206500,10,AMAZONE,Seeders
+31,KG 3001 Super,KG 3001 Super.png,18500,27,AMAZONE,Power Harrows
+32,Precea 4500-2C Super,Precea 4500-2C Super.png,49500,89,AMAZONE,Planters
+33,T-Pack U,T-Pack U.png,5000,44,AMAZONE,Misc
+34,ZA-TS 3200,ZA-TS 3200.png,25000,19,AMAZONE,Fertilizer Spreaders
+35,ZG-TS 10001,ZG-TS 10001.png,65000,48,AMAZONE,Fertilizer Spreaders
+36,Beet Cart,Beet Cart.png,135000,76,AMITYTECH,Auger Wagons
+37,Bumper,Bumper.png,1500,36,ANDERSONGROUP,Balers
+38,BioBaler WB-55,BioBaler WB-55.png,99500,56,ANDERSONGROUP,Balers
+39,HYBRID X XTRACTOR,HYBRID X XTRACTOR.png,34900,4,ANDERSONGROUP,Bale Wrappers
+40,IFX720 XTRACTOR,IFX720 XTRACTOR.png,30000,16,ANDERSONGROUP,Bale Wrappers
+41,M160,M160.png,19000,24,ANDERSONGROUP,Wood
+42,PRO-CHOP 150,PRO-CHOP 150.png,37000,66,ANDERSONGROUP,Animals
+43,RBM2000,RBM2000.png,50500,41,ANDERSONGROUP,Bale Loaders
+44,FieldLiner HTS 31.06,FieldLiner HTS 31.06.png,105000,17,ANNABURGER,Trailers
+45,GK 300 M1 Full Edition,GK 300 M1 Full Edition.png,13500,79,APV,Grassland Care
+46,ForStack 8.12,ForStack 8.12.png,37000,90,ARCUSIN,Bale Loaders
+47,FSX 63.72,FSX 63.72.png,90000,54,ARCUSIN,Bale Loaders
+48,Multipack D14,Multipack D14.png,64000,48,ARCUSIN,Bale Loaders
+49,FB3000-TO6000-PT6000,FB3000-TO6000-PT6000.png,79000,50,BEDNAR,Subsoilers
+50,GTW 330,GTW 330.png,76000,70,BERGMANN,Auger Wagons
+51,HTW 65,HTW 65.png,98000,42,BERGMANN,Trailers
+52,RRW 500,RRW 500.png,137500,11,BERGMANN,Auger Wagons
+53,SHUTTLE 490 S,SHUTTLE 490 S.png,131000,14,BERGMANN,Loader Wagons
+54,TSW 6240 W,TSW 6240 W.png,92500,70,BERGMANN,Manure Spreaders
+55,Bruin 4200,Bruin 4200.png,259000,23,BERTHOUD,Sprayer Vehicles
+56,Vantage 4300,Vantage 4300.png,65000,83,BERTHOUD,Sprayers
+57,Big Master Western WCF,Big Master Western WCF.png,16000,75,BOECKMANN,Animal Transport
+58,KK 3018/27 H,KK 3018 27 H.png,12000,30,BOECKMANN,Misc
+59,MH-AL 4320/35,MH-AL 4320 35.png,8000,43,BOECKMANN,Misc
+60,Multi 4XL,Multi 4XL.png,104000,68,BOMECH,Slurry Tanks
+61,Multi Profi 21/15,Multi Profi 21 15.png,69500,8,BOMECH,Slurry Tanks
+62,Trac-Pack,Trac-Pack.png,62000,6,BOMECH,Slurry Tanks
+63,DD 24073/2 XXL,DD 24073 2 XXL.png,39650,12,BRANTNER,Trailers
+64,TA 12050 Power Spread +,TA 12050 Power Spread +.png,33500,56,BRANTNER,Manure Spreaders
+65,TA 23065/2 Power Tube +,TA 23065 2 Power Tube +.png,33000,95,BRANTNER,Trailers
+66,TA 23071 Power Push +,TA 23071 Power Push +.png,44000,4,BRANTNER,Trailers
+67,Z 18051/2 XXL Power Flex,Z 18051 2 XXL Power Flex.png,32000,74,BRANTNER,Trailers
+68,K105,K105.png,45000,1,BREDAL,Fertilizer Spreaders
+69,K165,K165.png,78000,31,BREDAL,Fertilizer Spreaders
+70,SG2000,SG2000.png,8000,8,BREDAL,Winter Equipment
+71,Transportwagen TP 500 S,Transportwagen TP 500 S.png,15000,52,BREMER,Lowloaders
+72,Field Master 20,Field Master 20.png,120000,47,BRIRI,Slurry Tanks
+73,Manure Director 14,Manure Director 14.png,50500,21,BRIRI,Manure Spreaders
+74,6105,6105.png,39000,88,BUEHRER,Tractors S
+75,Diamant 12,Diamant 12.png,95000,51,CAPELLO,Corn Headers
+76,Diamant 8,Diamant 8.png,63500,65,CAPELLO,Corn Headers
+77,Helianthus 12000,Helianthus 12000.png,92000,26,CAPELLO,Cutters
+78,Helianthus 5700,Helianthus 5700.png,32000,60,CAPELLO,Cutters
+79,Spartan 610,Spartan 610.png,64500,89,CAPELLO,Forage Harvester Cutters
+80,Austoft 8800 Multi-Row,Austoft 8800 Multi-Row.png,349000,64,CASEIH,Sugarcane Vehicles
+81,Axial-Flow 7150,Axial-Flow 7150.png,301500,21,CASEIH,Harvesters
+82,Axial-Flow 9250,Axial-Flow 9250.png,410500,2,CASEIH,Harvesters
+83,3162 TerraFlex Draper 45FT,3162 TerraFlex Draper 45FT.png,89000,45,CASEIH,Cutters
+84,Farmall 1066 Hydro,Farmall 1066 Hydro.png,40000,22,CASEIH,Tractors S
+85,Farmall C Series,Farmall C Series.png,69000,40,CASEIH,Tractors S
+86,L630,L630.png,7500,27,CASEIH,Front Loaders
+87,4408,4408.png,53000,55,CASEIH,Corn Headers
+88,4418 N,4418 N.png,88000,9,CASEIH,Corn Headers
+89,LB436 HD,LB436 HD.png,159500,77,CASEIH,Balers
+90,Magnum AFS Connect Series,Magnum AFS Connect Series.png,312000,0,CASEIH,Tractors L
+91,Maxxum Series,Maxxum Series.png,112000,78,CASEIH,Tractors S
+92,Module Express 635,Module Express 635.png,485000,33,CASEIH,Cotton Vehicles
+93,Speed-Tiller 465,Speed-Tiller 465.png,86000,67,CASEIH,Disc Harrows
+94,Speed-Tiller 475,Speed-Tiller 475.png,112500,100,CASEIH,Disc Harrows
+95,Steiger Wheeled AFS Connect Series,Steiger Wheeled AFS Connect Series.png,402000,100,CASEIH,Tractors L
+96,Steiger Quadtrac AFS Connect Series,Steiger Quadtrac AFS Connect Series.png,506000,34,CASEIH,Tractors L
+97,Steiger Rowtrac AFS Connect Series,Steiger Rowtrac AFS Connect Series.png,488500,73,CASEIH,Tractors L
+98,3020 TerraFlex 25FT,3020 TerraFlex 25FT.png,42500,67,CASEIH,Cutters
+99,3050 TerraFlex 28FT,3050 TerraFlex 28FT.png,48000,66,CASEIH,Cutters
+100,3050 TerraFlex 41FT,3050 TerraFlex 41FT.png,70500,9,CASEIH,Cutters
+101,ARION 660-610,ARION 660-610.png,120000,47,CLAAS,Tractors S
+102,AXION 870-800,AXION 870-800.png,185000,68,CLAAS,Tractors M
+103,AXION 960-920,AXION 960-920.png,279000,16,CLAAS,Tractors L
+104,AXION 960-930 TERRA TRAC,AXION 960-930 TERRA TRAC.png,355000,78,CLAAS,Tractors L
+105,CARAT 140 TD,CARAT 140 TD.png,17500,31,CLAAS,Trailers
+106,CARGOS 9500,CARGOS 9500.png,116500,98,CLAAS,Loader Wagons
+107,CONVIO FLEX 1080,CONVIO FLEX 1080.png,63500,8,CLAAS,Cutters
+108,CONVIO FLEX 1380,CONVIO FLEX 1380.png,90000,59,CLAAS,Cutters
+109,CORIO 1275 C,CORIO 1275 C.png,79500,21,CLAAS,Corn Headers
+110,CORIO 1275 C %s,CORIO 1275 C %s.png,12500,52,CLAAS,Cutter Trailers
+111,CORIO 875 FC,CORIO 875 FC.png,63500,20,CLAAS,Corn Headers
+112,DIRECT DISC 500,DIRECT DISC 500.png,59500,94,CLAAS,Forage Harvester Cutters
+113,DIRECT DISC 500 %s,DIRECT DISC 500 %s.png,4950,91,CLAAS,Cutter Trailers
+114,FL 140,FL 140.png,10000,11,CLAAS,Front Loaders
+115,JAGUAR 960 TERRA TRAC,JAGUAR 960 TERRA TRAC.png,380500,51,CLAAS,Forage Harvesters
+116,LEXION 8900,LEXION 8900.png,489500,61,CLAAS,Harvesters
+117,LINER 4900 BUSINESS,LINER 4900 BUSINESS.png,90000,12,CLAAS,Windrowers
+118,ORBIS 750,ORBIS 750.png,100000,32,CLAAS,Forage Harvester Cutters
+119,ORBIS 900,ORBIS 900.png,120000,47,CLAAS,Forage Harvester Cutters
+120,PICK UP 300,PICK UP 300.png,20500,10,CLAAS,Forage Harvester Cutters
+121,QUADRANT 5300 FC,QUADRANT 5300 FC.png,153500,41,CLAAS,Balers
+122,ROLLANT 455 RC UNIWRAP,ROLLANT 455 RC UNIWRAP.png,78500,14,CLAAS,Balers
+123,SCORPION 1033,SCORPION 1033.png,101000,24,CLAAS,Tele Loader Vehicles
+124,TORION 1511,TORION 1511.png,180500,25,CLAAS,Wheel Loader Vehicles
+125,TORION 1914,TORION 1914.png,248500,40,CLAAS,Wheel Loader Vehicles
+126,TORION 639,TORION 639.png,64500,94,CLAAS,Front Loader Vehicles
+127,TORION 956 SINUS,TORION 956 SINUS.png,114500,42,CLAAS,Wheel Loader Vehicles
+128,TRION 750-720,TRION 750-720.png,357500,40,CLAAS,Harvesters
+129,W 1800,W 1800.png,1900,4,CLAAS,Weights
+130,W 600,W 600.png,650,48,CLAAS,Weights
+131,W 900,W 900.png,950,55,CLAAS,Weights
+132,XERION 5000-4500,XERION 5000-4500.png,409500,81,CLAAS,Tractors L
+133,MaxiCut 600,MaxiCut 600.png,22500,84,DALBO,Mulchers
+134,MaxiRoll 630 Greenline,MaxiRoll 630 Greenline.png,26000,16,DALBO,Grassland Care
+135,Mega Roll 2430,Mega Roll 2430.png,140500,67,DALBO,Rollers
+136,PowerRoll 1230 HD,PowerRoll 1230 HD.png,41000,81,DALBO,Rollers
+137,PL-75,PL-75.png,26000,19,DAMCON,Wood
+138,Rock King 9600,Rock King 9600.png,41000,68,DEGELMAN,Stone Pickers
+139,Signature 7200,Signature 7200.png,25000,16,DEGELMAN,Stone Pickers
+140,2200 Dual Auger Grain Cart,2200 Dual Auger Grain Cart.png,115000,13,DEMCO,Auger Wagons
+141,Side Dump,Side Dump.png,54000,11,DEMCO,Trailers
+142,Steel Drop Deck,Steel Drop Deck.png,28500,97,DEMCO,Lowloaders
+143,Topliner 4090 %s,Topliner 4090 %s.png,30000,79,DEUTZFAHR,Cutters
+144,Topliner 4090 %s,Topliner 4090 %s.png,1000,73,DEUTZFAHR,Cutter Trailers
+145,Series 7 TTV HD,Series 7 TTV HD.png,221500,68,DEUTZFAHR,Tractors M
+146,Series 8 TTV,Series 8 TTV.png,236000,64,DEUTZFAHR,Tractors M
+147,Topliner 4090 HTS,Topliner 4090 HTS.png,129500,77,DEUTZFAHR,Harvesters
+148,Meadow Roller Vario,Meadow Roller Vario.png,16500,51,DUEVELSDORF,Grassland Care
+149,MSS 3000,MSS 3000.png,2450,8,DUEVELSDORF,Leveler
+150,MSS 3700,MSS 3700.png,2450,76,DUEVELSDORF,Leveler
+151,2600,2600.png,7000,39,DUEVELSDORF,Silocompaction
+152,3000,3000.png,8000,35,DUEVELSDORF,Silocompaction
+153,CHOPSTAR 5-90 + ROW-GUARD,CHOPSTAR 5-90 + ROW-GUARD.png,51000,31,EINBOECK,Weeders
+154,AEROSTAR-EXACT 600,AEROSTAR-EXACT 600.png,9500,2,EINBOECK,Weeders
+155,PNEUMATICSTAR 900,PNEUMATICSTAR 900.png,18000,42,EINBOECK,Weeders
+156,PNEUMATICSTAR-PRO 1200,PNEUMATICSTAR-PRO 1200.png,41000,60,EINBOECK,Weeders
+157,Duett 7300,Duett 7300.png,52500,8,ELHO,Mowers
+158,Scorpio 550,Scorpio 550.png,52000,23,ELHO,Stone Pickers
+159,HaulMaster,HaulMaster.png,124000,95,ELMERSMFG,Auger Wagons
+160,PF 2.24 Plus,PF 2.24 Plus.png,50000,67,FARESIN,Animals
+161,Leader PF 2.26 Plus Ecomode,Leader PF 2.26 Plus Ecomode.png,240000,37,FARESIN,Animals Vehicles
+162,6.26 Classic 52,6.26 Classic 52.png,72000,43,FARESIN,Tele Loader Vehicles
+163,DRP 300 Perfect,DRP 300 Perfect.png,42500,58,FARMAX,Spaders
+164,KRG 250,KRG 250.png,35500,51,FARMAX,Spaders
+165,Rapide 450 Trailed,Rapide 450 Trailed.png,58000,11,FARMAX,Spaders
+166,Kompaktomat 1570 Max,Kompaktomat 1570 Max.png,129000,31,FARMET,Cultivators
+167,DPW 1800,DPW 1800.png,19500,65,FARMTECH,Bale Loaders
+168,Fortis 3000,Fortis 3000.png,68000,63,FARMTECH,Trailers
+169,Polycis 1550,Polycis 1550.png,77500,81,FARMTECH,Slurry Tanks
+170,Supercis 800,Supercis 800.png,22500,30,FARMTECH,Slurry Tanks
+171,Variofex 750,Variofex 750.png,28500,46,FARMTECH,Manure Spreaders
+172,DynaFlex 9255 40FT,DynaFlex 9255 40FT.png,70500,60,FENDT,Cutters
+173,500 Favorit,500 Favorit.png,76000,76,FENDT,Tractors S
+174,IDEAL,IDEAL.png,419500,17,FENDT,Harvesters
+175,Katana 650,Katana 650.png,395000,46,FENDT,Forage Harvesters
+176,1100 Vario MT,1100 Vario MT.png,385000,11,FENDT,Tractors L
+177,900 Vario MT,900 Vario MT.png,395000,90,FENDT,Tractors L
+178,PowerFlow 40FT,PowerFlow 40FT.png,70500,86,FENDT,Cutters
+179,PowerFlow 30FT,PowerFlow 30FT.png,52000,35,FENDT,Cutters
+180,1000 Vario,1000 Vario.png,329000,31,FENDT,Tractors L
+181,200 V Vario,200 V Vario.png,77000,91,FENDT,Tractors S
+182,300 Vario,300 Vario.png,107500,56,FENDT,Tractors S
+183,700 Vario,700 Vario.png,162000,94,FENDT,Tractors M
+184,900 Vario,900 Vario.png,280000,3,FENDT,Tractors L
+185,3300,3300.png,3450,34,FENDT,Weights
+186,ASW 271,ASW 271.png,52000,89,FLIEGL,Trailers
+187,Schmetterling,Schmetterling.png,2200,71,FLIEGL,Bale Loaders
+188,DTS 5.9,DTS 5.9.png,24500,44,FLIEGL,Lowloaders
+189,Noah TTW 140,Noah TTW 140.png,25000,42,FLIEGL,Animal Transport
+190,PFW 18000 MaxxLine Plus,PFW 18000 MaxxLine Plus.png,95000,65,FLIEGL,Slurry Tanks
+191,Ruby 2000,Ruby 2000.png,15500,17,FLIEGL,Front Loader Tools
+192,$l10n_shopItem_silageRoller,$l10n_shopItem_silageRoller.png,7500,96,FLIEGL,Silocompaction
+193,Timber Runner,Timber Runner.png,39000,48,FLIEGL,Wood
+194,TMK 273,TMK 273.png,55000,83,FLIEGL,Trailers
+195,LWS 12000,LWS 12000.png,39000,43,FUHRMANN,Grape Tools
+196,MRWK 14500,MRWK 14500.png,47000,17,FUHRMANN,Grape Tools
+197,MRWK 6000,MRWK 6000.png,16500,6,FUHRMANN,Grape Tools
+198,Single Row Billet Planter,Single Row Billet Planter.png,54000,96,GESSNER,Sugar Cane Harvesting
+199,Two Row Billet Planter,Two Row Billet Planter.png,85000,66,GESSNER,Sugar Cane Harvesting
+200,Evo 290,Evo 290.png,205000,3,GRIMME,Potato Harvesting
+201,FT 300,FT 300.png,24500,14,GRIMME,Beet Harvesting
+202,GL 420,GL 420.png,46000,43,GRIMME,Potato Harvesting
+203,GL 860 Compacta,GL 860 Compacta.png,129500,53,GRIMME,Potato Harvesting
+204,KS 75-4,KS 75-4.png,10000,26,GRIMME,Potato Harvesting
+205,Rexor 6300 Platinum,Rexor 6300 Platinum.png,471500,60,GRIMME,Beet Vehicles
+206,RH 24-60,RH 24-60.png,45000,39,GRIMME,Belts
+207,ROOTSTER 604,ROOTSTER 604.png,98500,57,GRIMME,Beet Harvesting
+208,SL 80-22 Quantum,SL 80-22 Quantum.png,38000,59,GRIMME,Belts
+209,TC 816,TC 816.png,18000,66,GRIMME,Belts
+210,Ventor 4150,Ventor 4150.png,599000,50,GRIMME,Potato Vehicles
+211,AEON 5200 DELTA FORCE,AEON 5200 DELTA FORCE.png,65000,43,HARDI,Sprayers
+212,COMMANDER 4500 DELTA FORCE,COMMANDER 4500 DELTA FORCE.png,57500,73,HARDI,Sprayers
+213,MEGA 1200L,MEGA 1200L.png,34500,80,HARDI,Sprayers
+214,MEGA 1200L TANK,MEGA 1200L TANK.png,5000,33,HARDI,Sprayers
+215,MERCURY 4000L,MERCURY 4000L.png,28000,59,HARDI,Grape Tools
+216,NAVIGATOR 4000 DELTA FORCE,NAVIGATOR 4000 DELTA FORCE.png,54500,85,HARDI,Sprayers
+217,RUBICON 9000,RUBICON 9000.png,489000,68,HARDI,Sprayer Vehicles
+218,XB 150,XB 150.png,9000,12,HAUER,Front Loaders
+219,XB 190,XB 190.png,12000,16,HAUER,Front Loaders
+220,DST 16,DST 16.png,58000,8,HAWE,Manure Spreaders
+221,KUW 2000,KUW 2000.png,125000,22,HAWE,Auger Wagons
+222,SUW 5000,SUW 5000.png,116000,27,HAWE,Auger Wagons
+223,ULW 4000,ULW 4000.png,102000,84,HAWE,Auger Wagons
+224,HM 8-400 KLC,HM 8-400 KLC.png,190000,21,HEIZOMAT,Wood
+225,HULK 300,HULK 300.png,4500,64,HOLARAS,Wheel Loader Tools
+226,MES 400,MES 400.png,6800,12,HOLARAS,Leveler
+227,MES 500,MES 500.png,7500,99,HOLARAS,Leveler
+228,Stego 485 Pro,Stego 485 Pro.png,10500,0,HOLARAS,Silocompaction
+229,Joker 4 CT,Joker 4 CT.png,25000,51,HORSCH,Disc Harrows
+230,Terrano 3 FX,Terrano 3 FX.png,15000,95,HORSCH,Cultivators
+231,TJV 985,TJV 985.png,64000,53,ISEKI,Tractors S
+232,Fastrac 4220,Fastrac 4220.png,216500,83,JCB,Tractors M
+233,Fastrac 8330,Fastrac 8330.png,289000,37,JCB,Tractors L
+234,541-70 AGRI PRO,541-70 AGRI PRO.png,108000,12,JCB,Tele Loader Vehicles
+235,HEM 922 DQ Cobra hybrid,HEM 922 DQ Cobra hybrid.png,660000,60,JENZ,Wood Harvesting
+236,CP690,CP690.png,847000,20,JOHNDEERE,Cotton Vehicles
+237,603R,603R.png,9500,22,JOHNDEERE,Front Loaders
+238,643R,643R.png,15000,9,JOHNDEERE,Front Loaders
+239,700M,700M.png,15500,63,JOHNDEERE,Front Loaders
+240,608C,608C.png,53000,58,JOHNDEERE,Corn Headers
+241,625X,625X.png,43000,56,JOHNDEERE,Cutters
+242,C16F,C16F.png,127000,33,JOHNDEERE,Corn Headers
+243,HD45X,HD45X.png,89000,90,JOHNDEERE,Cutters
+244,HD50F,HD50F.png,99500,66,JOHNDEERE,Cutters
+245,Laforge EZ 1700,Laforge EZ 1700.png,5000,61,JOHNDEERE,Weights
+246,PickUp 1150,PickUp 1150.png,1200,24,JOHNDEERE,Weights
+247,PickUp 1800,PickUp 1800.png,1900,6,JOHNDEERE,Weights
+248,PickUp 900,PickUp 900.png,950,7,JOHNDEERE,Weights
+249,1775NT,1775NT.png,234500,60,JOHNDEERE,Planters
+250,4755,4755.png,108500,54,JOHNDEERE,Tractors M
+251,6M Series,6M Series.png,109500,53,JOHNDEERE,Tractors S
+252,6R Series,6R Series.png,233500,33,JOHNDEERE,Tractors M
+253,7810,7810.png,99500,49,JOHNDEERE,Tractors M
+254,7R Series,7R Series.png,247500,19,JOHNDEERE,Tractors L
+255,8R Series,8R Series.png,285000,84,JOHNDEERE,Tractors L
+256,8RT Series,8RT Series.png,343000,94,JOHNDEERE,Tractors L
+257,8RX Series,8RX Series.png,351000,70,JOHNDEERE,Tractors L
+258,9000 Series,9000 Series.png,449500,5,JOHNDEERE,Forage Harvesters
+259,9R Series,9R Series.png,346000,38,JOHNDEERE,Tractors L
+260,9RT Series,9RT Series.png,387500,37,JOHNDEERE,Tractors L
+261,9RX Series,9RX Series.png,428500,5,JOHNDEERE,Tractors L
+262,T560,T560.png,285000,87,JOHNDEERE,Harvesters
+263,X9 1100,X9 1100.png,550000,81,JOHNDEERE,Harvesters
+264,XUV865M,XUV865M.png,26000,58,JOHNDEERE,Cars
+265,AQUATRANS 7300 S,AQUATRANS 7300 S.png,9500,60,JOSKIN,Animals
+266,EFG S50,EFG S50.png,55000,62,JUNGHEINRICH,Forklifts
+267,ETV 216i,ETV 216i.png,39500,22,JUNGHEINRICH,Forklifts
+268,Radium 255,Radium 255.png,68500,44,KAWECO,Trailers
+269,$l10n_shopItem_comfortSupportWheel,$l10n_shopItem_comfortSupportWheel.png,2000,53,KEMPER,Forage Harvester Cutters
+270,3003,3003.png,20500,42,KEMPER,Forage Harvester Cutters
+271,345 Plus,345 Plus.png,60000,16,KEMPER,Forage Harvester Cutters
+272,360 Plus,360 Plus.png,80000,13,KEMPER,Forage Harvester Cutters
+273,375 Plus,375 Plus.png,100000,66,KEMPER,Forage Harvester Cutters
+274,390 Plus,390 Plus.png,120000,76,KEMPER,Forage Harvester Cutters
+275,144ND,144ND.png,45000,39,KESLA,Wood
+276,Belvedere,Belvedere.png,22000,2,KINGSTON,Animal Transport
+277,Mach Till 261,Mach Till 261.png,72500,10,KINZE,Disc Harrows
+278,Mach Till 412,Mach Till 412.png,108000,69,KINZE,Disc Harrows
+279,3665 Blue Drive,3665 Blue Drive.png,139500,72,KINZE,Planters
+280,4905 Blue Drive,4905 Blue Drive.png,249500,71,KINZE,Planters
+281,SPEEDMAX 560,SPEEDMAX 560.png,21000,62,KNOCHE,Mulchers
+282,Allrounder Flatline 600,Allrounder Flatline 600.png,51000,71,KOCKERLING,Cultivators
+283,Rebell Classic 600T,Rebell Classic 600T.png,45000,93,KOCKERLING,Disc Harrows
+284,Vector 570/800,Vector 570/800.png,48500,75,KOCKERLING,Cultivators
+285,875,875.png,216000,90,KOMATSU,Wood Harvesting
+286,931XC,931XC.png,435000,22,KOMATSU,Wood Harvesting
+287,GXF 3605 P,GXF 3605 P.png,15000,87,KONGSKILDE,Mowers
+288,GXT 13005 P,GXT 13005 P.png,149500,28,KONGSKILDE,Mowers
+289,FRC 55,FRC 55.png,33500,3,KOTTE,Slurry Tanks
+290,FRC 65,FRC 65.png,36000,90,KOTTE,Slurry Tanks
+291,PQ 32.000,PQ 32.000.png,189500,61,KOTTE,Slurry Tanks
+292,TSA 30000,TSA 30000.png,95500,84,KOTTE,Slurry Tanks
+293,Big Body 750 S,Big Body 750 S.png,35500,84,KRAMPE,Trailers
+294,Dolly 10 L,Dolly 10 L.png,9000,39,KRAMPE,Dollys
+295,HALFPIPE HP 20,HALFPIPE HP 20.png,36000,30,KRAMPE,Trailers
+296,SKS 30/1050,SKS 30/1050.png,95000,32,KRAMPE,Trailers
+297,MUK 303,MUK 303.png,52000,58,KROEGER,Trailers
+298,PWO 24,PWO 24.png,21500,97,KROEGER,Bale Loaders
+299,BiG M 450,BiG M 450.png,380000,3,KRONE,Mower Vehicles
+300,BiG Pack 1290 HDP VC,BiG Pack 1290 HDP VC.png,155000,95,KRONE,Balers
+301,BiG X 1180,BiG X 1180.png,515000,83,KRONE,Forage Harvesters
+302,X-Collect 900-3,X-Collect 900-3.png,120000,70,KRONE,Forage Harvester Cutters
+303,EasyFlow 300 S,EasyFlow 300 S.png,20500,95,KRONE,Forage Harvester Cutters
+304,GX 520,GX 520.png,119000,61,KRONE,Trailers
+305,Profi Liner,Profi Liner.png,29500,86,KRONETRAILER,Misc
+306,Swadro TS 970,Swadro TS 970.png,41000,0,KRONE,Windrowers
+307,XDisc 620,XDisc 620.png,65000,96,KRONE,Forage Harvester Cutters
+308,XDisc 620 %s,XDisc 620 %s.png,3000,23,KRONE,Cutter Trailers
+309,HR 6040 RCS + BTFR 6030,HR 6040 RCS + BTFR 6030.png,67500,41,KUHN,Seeders
+310,DC 401,DC 401.png,10500,83,KUHN,Subsoilers
+311,ESPRO 6000 RC,ESPRO 6000 RC.png,120500,38,KUHN,Seeders
+312,GA 15131,GA 15131.png,62000,47,KUHN,Windrowers
+313,GA 4731,GA 4731.png,8100,66,KUHN,Windrowers
+314,GF 8712,GF 8712.png,16000,36,KUHN,Tedders
+315,GMD 3123 F,GMD 3123 F.png,9500,95,KUHN,Mowers
+316,GMD 4411,GMD 4411.png,18000,63,KUHN,Mowers
+317,GMD 8730-FF,GMD 8730-FF.png,25000,73,KUHN,Mowers
+318,HR 4040,HR 4040.png,25000,51,KUHN,Power Harrows
+319,HR 6040 RCS,HR 6040 RCS.png,42000,87,KUHN,Power Harrows
+320,MAXIMA 3 TIL,MAXIMA 3 TIL.png,54000,78,KUHN,Planters
+321,MERGE MAXX 950,MERGE MAXX 950.png,110000,58,KUHN,Windrowers
+322,PRIMOR 15070 M,PRIMOR 15070 M.png,36500,48,KUHN,Animals
+323,PROLANDER 7500,PROLANDER 7500.png,59500,22,KUHN,Cultivators
+324,RA 142,RA 142.png,29500,4,KUHN,Animals
+325,SB 1290 iD,SB 1290 iD.png,164000,63,KUHN,Balers
+326,SLC 141,SLC 141.png,54800,84,KUHN,Manure Spreaders
+327,SPW INTENSE 25.2 CL,SPW INTENSE 25.2 CL.png,232000,36,KUHN,Animals Vehicles
+328,SW 4014,SW 4014.png,54000,91,KUHN,Bale Wrappers
+329,TF 1512,TF 1512.png,18000,23,KUHN,Seeders
+330,VB 3190,VB 3190.png,57500,90,KUHN,Balers
+331,Venta 4030,Venta 4030.png,25000,43,KUHN,Seeders
+332,DTX 300 AR,DTX 300 AR.png,29000,48,KVERNELAND,Subsoilers
+333,Ecomat,Ecomat.png,23500,29,KVERNELAND,Plows
+334,4140 L,4140 L.png,20500,6,KVERNELAND,Mowers
+335,Optima RS,Optima RS.png,89500,24,KVERNELAND,Planters
+336,PW 100 - 12,PW 100 - 12.png,75000,15,KVERNELAND,Plows
+337,7850 C,7850 C.png,22000,94,KVERNELAND,Bale Wrappers
+338,LH II,LH II.png,85000,71,LACOTEC,Forage Harvester Cutters
+339,Serie 7 Robo-Six,Serie 7 Robo-Six.png,150000,15,LANDINI,Tractors M
+340,REX 4 GT,REX 4 GT.png,39500,30,LANDINI,Tractors S
+341,Azurit 9,Azurit 9.png,63500,60,LEMKEN,Planters
+342,Karat 12/500 KUA,Karat 12/500 KUA.png,47500,29,LEMKEN,Cultivators
+343,Koralin 9-840,Koralin 9-840.png,87500,6,LEMKEN,Cultivators
+344,Smaragd 9/500K,Smaragd 9/500K.png,24500,24,LEMKEN,Cultivators
+345,Solitair 12,Solitair 12.png,165000,14,LEMKEN,Seeders
+346,Solitair 23,Solitair 23.png,8000,60,LEMKEN,Planters
+347,Titan 18,Titan 18.png,59000,97,LEMKEN,Plows
+348,Lintrac 130,Lintrac 130.png,105500,26,LINDNER,Tractors S
+349,MKS 32,MKS 32.png,68000,2,LIZARD,Animals
+350,MKS 8,MKS 8.png,25000,35,LIZARD,Animals
+351,Module 4,Module 4.png,26000,100,LIZARD,Cotton Harvesting
+352,Module X Semi,Module X Semi.png,46000,34,LIZARD,Cotton Harvesting
+353,Pickup 1986,Pickup 1986.png,25000,57,LIZARD,Cars
+354,Pickup 2017,Pickup 2017.png,45000,0,LIZARD,Cars
+355,S-710,S-710.png,5000,82,LIZARD,Belts
+356,SWT 7,SWT 7.png,45000,68,LIZARD,Sugar Cane Harvesting
+357,Distinction Triple Hopper,Distinction Triple Hopper.png,75000,96,LODEKING,Trailers
+358,Renown Drop Deck,Renown Drop Deck.png,45000,66,LODEKING,Lowloaders
+359,Anthem 6x4,Anthem 6x4.png,93500,42,MACK,Trucks
+360,Pinnacle 6x4,Pinnacle 6x4.png,93500,21,MACK,Trucks
+361,Super-Liner 6x4,Super-Liner 6x4.png,110000,12,MACK,Trucks
+362,$l10n_shopItem_telehandlerBaleFork,$l10n_shopItem_telehandlerBaleFork.png,900,74,MAGSI,Tele Loader Tools
+363,$l10n_shopItem_telehandlerBaleGrab,$l10n_shopItem_telehandlerBaleGrab.png,1500,86,MAGSI,Tele Loader Tools
+364,$l10n_shopItem_telehandlerFork,$l10n_shopItem_telehandlerFork.png,2000,2,MAGSI,Tele Loader Tools
+365,$l10n_shopItem_telehandlerLogFork,$l10n_shopItem_telehandlerLogFork.png,3300,71,MAGSI,Tele Loader Tools
+366,$l10n_shopItem_telehandlerManureFork,$l10n_shopItem_telehandlerManureFork.png,3400,10,MAGSI,Tele Loader Tools
+367,$l10n_shopItem_telehandlerShovel,$l10n_shopItem_telehandlerShovel.png,2200,45,MAGSI,Tele Loader Tools
+368,$l10n_shopItem_wheelLoaderFork,$l10n_shopItem_wheelLoaderFork.png,2500,38,MAGSI,Wheel Loader Tools
+369,$l10n_shopItem_wheelLoaderLogFork,$l10n_shopItem_wheelLoaderLogFork.png,5500,38,MAGSI,Wheel Loader Tools
+370,$l10n_shopItem_wheelLoaderHighDumpBucket,$l10n_shopItem_wheelLoaderHighDumpBucket.png,14000,10,MAGSI,Wheel Loader Tools
+371,Retriever 1000,Retriever 1000.png,17200,86,MAHINDRA,Cars
+372,TGS 18.500 4x4,TGS 18.500 4x4.png,130000,61,MAN,Trucks
+373,TGX 26.640,TGX 26.640.png,180000,33,MAN,Wood Harvesting
+374,MC 18-4,MC 18-4.png,37000,89,MANITOU,Forklifts
+375,MLT 625-75H,MLT 625-75H.png,75000,65,MANITOU,Tele Loader Vehicles
+376,MLT 737-130 PS+,MLT 737-130 PS+.png,98000,77,MANITOU,Tele Loader Vehicles
+377,MLT 840-145 PS+,MLT 840-145 PS+.png,105000,2,MANITOU,Tele Loader Vehicles
+378,MF 1840,MF 1840.png,22000,77,MASSEYFERGUSON,Balers
+379,MF 2370 Ultra HD,MF 2370 Ultra HD.png,164000,77,MASSEYFERGUSON,Balers
+380,MF RB 4160V Protec,MF RB 4160V Protec.png,84500,23,masseyFerguson,Balers
+381,MF 3012,MF 3012.png,42000,74,MASSEYFERGUSON,Sugar Cane Harvesting
+382,MF 3670,MF 3670.png,97000,100,MASSEYFERGUSON,Tractors M
+383,MF 3700 AL,MF 3700 AL.png,43000,33,MASSEYFERGUSON,Tractors S
+384,MF 4700 M,MF 4700 M.png,50500,16,MASSEYFERGUSON,Tractors S
+385,MF 5S,MF 5S.png,76500,53,MASSEYFERGUSON,Tractors S
+386,MF 6700 S,MF 6700 S.png,122000,84,MASSEYFERGUSON,Tractors M
+387,MF 6S,MF 6S.png,113500,21,MASSEYFERGUSON,Tractors S
+388,MF 7710 S,MF 7710 S.png,145000,71,MASSEYFERGUSON,Tractors M
+389,MF 7720 S,MF 7720 S.png,199500,75,MASSEYFERGUSON,Tractors M
+390,MF 7S,MF 7S.png,125500,20,MASSEYFERGUSON,Tractors M
+391,MF 8S,MF 8S.png,192000,95,MASSEYFERGUSON,Tractors M
+392,$l10n_shopItem_telehandlerBaleFork,$l10n_shopItem_telehandlerBaleFork.png,5900,35,MCCORMACK,Wheel Loader Tools
+393,Cotton Tag Trailer,Cotton Tag Trailer.png,89000,12,MCCORMACK,Cotton Harvesting
+394,$l10n_shopItem_wheelLoaderHighDumpBucket,$l10n_shopItem_wheelLoaderHighDumpBucket.png,15000,77,MCCORMACK,Wheel Loader Tools
+395,Cotton Wheelie Grab,Cotton Wheelie Grab.png,12500,91,MCCORMACK,Cotton Harvesting
+396,X7 VT-Drive,X7 VT-Drive.png,170500,42,MCCORMICK,Tractors M
+397,X8 VT-Drive,X8 VT-Drive.png,220000,85,MCCORMICK,Tractors M
+398,1690,1690.png,25500,65,CONVEYALL,Belts
+399,CST 1550,CST 1550.png,114000,23,CONVEYALL,Auger Wagons
+400,TL 12-39,TL 12-39.png,14500,94,MERIDIAN,Belts
+401,N20T,N20T.png,3500,18,NARDI,Cutter Trailers
+402,N40B,N40B.png,4000,29,NARDI,Cutter Trailers
+403,N40BX,N40BX.png,5500,16,NARDI,Cutter Trailers
+404,N60-30,N60-30.png,6000,22,NARDI,Cutter Trailers
+405,N60-35,N60-35.png,7000,53,NARDI,Cutter Trailers
+406,N60-40,N60-40.png,10500,55,NARDI,Cutter Trailers
+407,N60-45,N60-45.png,12000,48,NARDI,Cutter Trailers
+408,N70-30,N70-30.png,6500,94,NARDI,Cutter Trailers
+409,N70-40,N70-40.png,11000,55,NARDI,Cutter Trailers
+410,BigBaler 1290 High Density,BigBaler 1290 High Density.png,159500,48,NEWHOLLAND,Balers
+411,Braud 9070L,Braud 9070L.png,242000,53,NEWHOLLAND,Grape Vehicles
+412,Braud 9090X Olive,Braud 9090X Olive.png,306000,63,NEWHOLLAND,Olive Vehicles
+413,C332,C332.png,49000,33,NEWHOLLAND,Skid Steer Vehicles
+414,CH7.70,CH7.70.png,265000,44,NEWHOLLAND,Harvesters
+415,CR 10.90 Revelation,CR 10.90 Revelation.png,443000,72,NEWHOLLAND,Harvesters
+416,130FB,130FB.png,25000,0,NEWHOLLAND,Forage Harvester Cutters
+417,FR 780,FR 780.png,452000,92,NEWHOLLAND,Forage Harvesters
+418,L318,L318.png,35000,73,NEWHOLLAND,Skid Steer Vehicles
+419,T6 Series,T6 Series.png,102000,97,NEWHOLLAND,Tractors S
+420,T7 HD Series,T7 HD Series.png,227500,38,NEWHOLLAND,Tractors M
+421,T8 GENESIS Series,T8 GENESIS Series.png,292000,55,NEWHOLLAND,Tractors L
+422,T9 Series,T9 Series.png,343000,100,NEWHOLLAND,Tractors L
+423,T9 Tracks Series,T9 Tracks Series.png,419000,67,NEWHOLLAND,Tractors L
+424,TH7.42 Elite,TH7.42 Elite.png,109000,41,NEWHOLLAND,Tele Loader Vehicles
+425,TK4.80 Methane Power,TK4.80 Methane Power.png,57500,13,NEWHOLLAND,Tractors S
+426,HK 25,HK 25.png,14500,13,NORDSTEN,Power Harrows
+427,HK 25 + NS 3030,HK 25 + NS 3030.png,33500,47,NORDSTEN,Seeders
+428,$l10n_shopItem_telehandlerBaleGrab,$l10n_shopItem_telehandlerBaleGrab.png,1700,94,PALADIN,Skid Steer Tools
+429,$l10n_shopItem_skidSteerBaleFork,$l10n_shopItem_skidSteerBaleFork.png,600,18,PALADIN,Skid Steer Tools
+430,$l10n_shopItem_skidSteerHighDumpBucket,$l10n_shopItem_skidSteerHighDumpBucket.png,4000,45,PALADIN,Skid Steer Tools
+431,$l10n_shopItem_skidSteerManureFork,$l10n_shopItem_skidSteerManureFork.png,2100,3,PALADIN,Skid Steer Tools
+432,$l10n_shopItem_frontloaderPalletFork,$l10n_shopItem_frontloaderPalletFork.png,800,60,PALADIN,Skid Steer Tools
+433,$l10n_shopItem_skidSteerStumpCutter,$l10n_shopItem_skidSteerStumpCutter.png,2500,22,PALADIN,Skid Steer Tools
+434,$l10n_shopItem_skidSteerLogFork,$l10n_shopItem_skidSteerLogFork.png,2000,20,PALADIN,Skid Steer Tools
+435,AT5104 LNMS,AT5104 LNMS.png,381000,97,OXBO,Slurry Vehicles
+436,ALPINHIT 4.4 H,ALPINHIT 4.4 H.png,7000,95,POETTINGER,Tedders
+437,BOSS ALPIN 251,BOSS ALPIN 251.png,30500,85,POETTINGER,Loader Wagons
+438,FARO 4010 D,FARO 4010 D.png,70500,2,POETTINGER,Loader Wagons
+439,HIT 16.18 T,HIT 16.18 T.png,42500,83,POETTINGER,Tedders
+440,IMPRESS 125F PRO,IMPRESS 125F PRO.png,48000,51,POETTINGER,Balers
+441,IMPRESS 185VC PRO,IMPRESS 185VC PRO.png,99500,26,POETTINGER,Balers
+442,JUMBO 10020 D COMBILINE,JUMBO 10020 D COMBILINE.png,123500,69,POETTINGER,Loader Wagons
+443,NOVACAT 301 AM ED Pro,NOVACAT 301 AM ED Pro.png,13500,87,POETTINGER,Mowers
+444,NOVACAT A10 Cross Flow,NOVACAT A10 Cross Flow.png,75000,78,POETTINGER,Mowers
+445,SERVO 25,SERVO 25.png,14000,71,POETTINGER,Plows
+446,Terradisc 10001T,Terradisc 10001T.png,90500,73,POETTINGER,Disc Harrows
+447,Terrasem C6F,Terrasem C6F.png,109500,18,POETTINGER,Seeders
+448,TOP 342,TOP 342.png,5900,64,POETTINGER,Windrowers
+449,Bison Active Frame,Bison Active Frame.png,225000,18,PONSSE,Wood Harvesting
+450,Cobra,Cobra.png,445000,23,PONSSE,Wood Harvesting
+451,Junior 108,Junior 108.png,7500,94,PORSCHEDIESEL,Tractors S
+452,Leitwolf Agripower,Leitwolf Agripower.png,199500,15,PRINOTH,Misc Vehicles
+453,M650,M650.png,41000,71,PRINOTH,Wood
+454,RAPTOR 300,RAPTOR 300.png,275000,32,PRINOTH,Wood Harvesting
+455,SF900,SF900.png,27000,78,PRINOTH,Wood
+456,MP 122 OCEA,MP 122 OCEA.png,16000,37,PROVITIS,Grape Tools
+457,BIG BAG LIFTER - SINGLE,BIG BAG LIFTER - SINGLE.png,700,14,QUICKE,Front Loader Tools
+458,BIG BAG LIFTER - DUAL,BIG BAG LIFTER - DUAL.png,1250,10,QUICKE,Front Loader Tools
+459,Q3M,Q3M.png,7000,11,QUICKE,Front Loaders
+460,Q4M,Q4M.png,7500,14,QUICKE,Front Loaders
+461,Q5M,Q5M.png,8000,21,QUICKE,Front Loaders
+462,Q6M,Q6M.png,9000,35,QUICKE,Front Loaders
+463,Q7M,Q7M.png,10000,41,QUICKE,Front Loaders
+464,EG 3/9,EG 3/9.png,12000,98,RABE,Cultivators
+465,SKE 50 ELECTRIC,SKE 50 ELECTRIC.png,49500,97,RIGITRAC,Tractors S
+466,Keiler 2,Keiler 2.png,215000,31,ROPA,Potato Harvesting
+467,Maus 5,Maus 5.png,369000,49,ROPA,Beet Vehicles
+468,NawaRo-Maus,NawaRo-Maus.png,328000,68,ROPA,Misc Vehicles
+469,Panther 2,Panther 2.png,375000,99,ROPA,Beet Vehicles
+470,RR 6x45,RR 6x45.png,54000,38,ROPA,Beet Harvesting
+471,RR-XL 9x45,RR-XL 9x45.png,79000,94,ROPA,Beet Harvesting
+472,RR-XL 9x45 %s,RR-XL 9x45 %s.png,9000,73,ROPA,Cutter Trailers
+473,Tiger 6S,Tiger 6S.png,499000,78,ROPA,Beet Vehicles
+474,K-12200,K-12200.png,101000,34,ROSTSELMASH,Cultivators
+475,NOVA 330,NOVA 330.png,75000,3,ROSTSELMASH,Harvesters
+476,Power Stream 500,Power Stream 500.png,25000,87,ROSTSELMASH,Cutters
+477,RSM 2375,RSM 2375.png,217000,80,ROSTSELMASH,Tractors L
+478,F20D,F20D.png,350000,62,ROTTNE,Wood Harvesting
+479,H21D,H21D.png,470000,42,ROTTNE,Wood Harvesting
+480,Spider SP 6834,Spider SP 6834.png,10000,73,SCHOUTEN,Slurry Tanks
+481,VT130,VT130.png,58000,36,SCHOUTEN,Slurry Tanks
+482,DK 280 RL,DK 280 RL.png,23000,22,RUDOLPH,Trailers
+483,TDK 301 RA,TDK 301 RA.png,32000,24,RUDOLPH,Trailers
+484,TDK 301 RP,TDK 301 RP.png,31000,74,RUDOLPH,Trailers
+485,AKP-122,AKP-122.png,650,6,SALEK,Subsoilers
+486,ANS-1900,ANS-1900.png,3500,31,SALEK,Trailers
+487,MUL-1000,MUL-1000.png,1850,56,SALEK,Mulchers
+488,PN 2-300,PN 2-300.png,1250,46,SALEK,Plows
+489,TB-100,TB-100.png,1800,42,SALEK,Disc Harrows
+490,CITY 180,CITY 180.png,2000,94,SAMASZ,Winter Equipment
+491,JUMP 320,JUMP 320.png,6000,82,SAMASZ,Winter Equipment
+492,OLIMP 330,OLIMP 330.png,7000,37,SAMASZ,Winter Equipment
+493,Tornado 252,Tornado 252.png,9500,72,SAMASZ,Winter Equipment
+494,Z2-840 H,Z2-840 H.png,19500,90,SAMASZ,Windrowers
+495,FLEX 23,FLEX 23.png,85000,67,SAMSONAGRO,Manure Spreaders
+496,PG II 35,PG II 35.png,202500,95,SAMSONAGRO,Slurry Tanks
+497,SBH4 36,SBH4 36.png,125000,65,SAMSONAGRO,Slurry Tanks
+498,SD 700,SD 700.png,46000,48,SAMSONAGRO,Slurry Tanks
+499,US 235 Dynamic,US 235 Dynamic.png,149500,51,SAMSONAGRO,Manure Spreaders
+500,23E,23E.png,50500,15,SCHAEFFER,Front Loader Vehicles
+501,2630,2630.png,30500,92,SCHAEFFER,Front Loader Vehicles
+502,4670 T,4670 T.png,56500,28,SCHAEFFER,Tele Loader Vehicles
+503,9660 T-2,9660 T-2.png,130000,64,SCHAEFFER,Tele Loader Vehicles
+504,Rapide 580V,Rapide 580V.png,100000,69,SCHUITEMAKER,Loader Wagons
+505,F 240,F 240.png,12000,88,SEPPKNUSEL,Mowers
+506,SelfLine 4.0 Premium 2215-22,SelfLine 4.0 Premium 2215-22.png,204500,58,SILOKING,Animals Vehicles
+507,TrailedLine 4.0 Premium 2218‑22,TrailedLine 4.0 Premium 2218‑22.png,45000,44,SILOKING,Animals
+508,Air 300 F Alp,Air 300 F Alp.png,15000,86,SIP,Windrowers
+509,Favorit 254,Favorit 254.png,5000,31,SIP,Windrowers
+510,8150,8150.png,87500,4,STEYR,Tractors S
+511,Aperion 3401,Aperion 3401.png,90500,100,STRAUTMANN,Trailers
+512,Magnon CFS 530 DO,Magnon CFS 530 DO.png,132500,93,STRAUTMANN,Loader Wagons
+513,PS 3401,PS 3401.png,156000,79,STRAUTMANN,Manure Spreaders
+514,VM 1702 Double SF,VM 1702 Double SF.png,158000,95,STRAUTMANN,Animals Vehicles
+515,ZELON CFS 2501 DO,ZELON CFS 2501 DO.png,46000,64,STRAUTMANN,Loader Wagons
+516,PAC-1000,PAC-1000.png,1050,14,TENWINKEL,Weights
+517,PAC-1500,PAC-1500.png,1500,48,TENWINKEL,Weights
+518,B2500,B2500.png,3700,22,TENWINKEL,Weights
+519,FGB 600,FGB 600.png,650,98,TENWINKEL,Weights
+520,PAC-750,PAC-750.png,850,62,TENWINKEL,Weights
+521,FST 990,FST 990.png,29500,100,THUNDERCREEK,Misc
+522,TDE-220,TDE-220.png,7000,31,TMCCANCELA,Mulchers
+523,TFK 200,TFK 200.png,24500,26,TMCCANCELA,Wood
+524,TJP 610,TJP 610.png,25500,35,TMCCANCELA,Mulchers
+525,TMS2-300D,TMS2-300D.png,9500,22,TMCCANCELA,Mulchers
+526,TPN 140,TPN 140.png,4500,93,TMCCANCELA,Mulchers
+527,E - Locomotive,E - Locomotive.png,164000,86,LIZARD,Tractors S
+528,Diesel Locomotive,Diesel Locomotive.png,164000,74,LIZARD,Tractors S
+529,Grain Wagon,Grain Wagon.png,1,7,LIZARD,Trailers
+530,Sugarbeet Wagon,Sugarbeet Wagon.png,1,15,LIZARD,Trailers
+531,Sugarbeet Wagon,Sugarbeet Wagon.png,1,22,LIZARD,Trailers
+532,Vehicle Wagon,Vehicle Wagon.png,1,80,LIZARD,Trailers
+533,Sugarbeet Wagon,Sugarbeet Wagon.png,1,38,LIZARD,Trailers
+534,TS 1520/M3,TS 1520/M3.png,45000,37,TREFFLER,Weeders
+535,Colossus 10.000,Colossus 10.000.png,31000,24,TT,Sugar Cane Harvesting
+536,NZ Extreme 1425,NZ Extreme 1425.png,125000,9,VAEDERSTAD,Cultivators
+537,Rapid A 800S,Rapid A 800S.png,159500,18,VAEDERSTAD,Seeders
+538,Tempo L 16,Tempo L 16.png,160000,82,VAEDERSTAD,Planters
+539,A Series,A Series.png,76500,18,VALTRA,Tractors S
+540,G Series,G Series.png,84000,30,VALTRA,Tractors S
+541,N Series,N Series.png,110000,94,VALTRA,Tractors S
+542,Q Series,Q Series.png,202000,61,VALTRA,Tractors M
+543,Valmet 8750,Valmet 8750.png,108500,83,VALTRA,Tractors M
+544,T Series,T Series.png,179500,70,VALTRA,Tractors M
+545,Premium Integral 20000,Premium Integral 20000.png,120000,66,VEENHUIS,Slurry Tanks
+546,Premium Integral 30000,Premium Integral 30000.png,161000,28,VEENHUIS,Slurry Tanks
+547,4WD,4WD.png,352000,58,VERSATILE,Tractors L
+548,Hydro Trike 5x5,Hydro Trike 5x5.png,346500,33,VERVAET,Slurry Vehicles
+549,Fanex 904,Fanex 904.png,16500,43,VICON,Tedders
+550,LM 845,LM 845.png,45000,66,VOLVO,Wheel Loader Vehicles
+551,T 425 Krabat,T 425 Krabat.png,11000,48,VOLVO,Tractors S
+552,WMB 4000,WMB 4000.png,113000,15,WALKABOUT,Auger Wagons
+553,WMB 6000,WMB 6000.png,169500,48,WALKABOUT,Auger Wagons
+554,DSC 180,DSC 180.png,12500,45,WEBERMT,Silocompaction
+555,DK 115,DK 115.png,11500,64,WELGER,Trailers
+556,Pacesetter,Pacesetter.png,59500,67,WILSON,Trailers
+557,Silverstar,Silverstar.png,80000,53,WILSON,Animal Transport
+558,CRYSTAL HD,CRYSTAL HD.png,130000,56,ZETOR,Tractors M
+559,FORTERRA HSX,FORTERRA HSX.png,89500,71,ZETOR,Tractors S
+560,MAJOR CL,MAJOR CL.png,42500,11,ZETOR,Tractors S
+561,PROXIMA HS,PROXIMA HS.png,49500,1,ZETOR,Tractors S
+562,Z-25K,Z-25K.png,9500,61,ZETOR,Tractors S
+563,Corn Champion 5R,Corn Champion 5R.png,19000,11,ZIEGLER,Corn Headers
+564,ULT 18,ULT 18.png,37500,98,ZUNHAMMER,Slurry Tanks
+565,ULT 24,ULT 24.png,52000,52,ZUNHAMMER,Slurry Tanks
+566,Vibro,Vibro.png,25000,11,ZUNHAMMER,Slurry Tanks
