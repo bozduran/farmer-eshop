@@ -29,6 +29,7 @@ CREATE TABLE IF NOT EXISTS `full-stack-eshop`.`product` (
     `stock_quantity` INT,
     `price` DECIMAL NOT NULL ,
     `product_name` VARCHAR(255) NOT NULL,
+    `description` VARCHAR(255),
     `created_date` DATETIME(6) DEFAULT NULL,
     `image_url` VARCHAR(255),
     `update_date` DATETIME(6) DEFAULT NULL,

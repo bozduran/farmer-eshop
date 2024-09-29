@@ -47,6 +47,10 @@ public class Product {
     @Column(name="price")
     private Double price;
 
+    @NotNull
+    @Column(name="description")
+    private String description;
+
     @CreationTimestamp
     @Column(name = "created_date", updatable = false)
     private LocalDateTime createdDate;

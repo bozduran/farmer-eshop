@@ -108,6 +108,10 @@ public class BootstrapData implements CommandLineRunner {
                     .builder()
                     .productName(productCSV.getProductName())
                     .price(productCSV.getPrice())
+                            .description(productCSV.getBrand() + " " +
+                                    productCSV.getProductName() +" "+
+                                    productCSV.getCategory() +" "+
+                                    productCSV.getPrice())
                     .stockQuantity(productCSV.getStockQuantity())
                     .imageUrl("/assets/images/products/"+productCSV.getImage())
                             .brand(brandRepository.getBrandByBrandName(productCSV.getBrand()) )
