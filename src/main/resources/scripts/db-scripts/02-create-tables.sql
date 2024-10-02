@@ -3,22 +3,28 @@ CREATE SCHEMA `full-stack-eshop`;
 USE `full-stack-eshop` ;
 
 -- Brand Table
-CREATE TABLE IF NOT EXISTS `full-stack-eshop`.`brand` (
-                                                          `id` BIGINT(20) NOT NULL AUTO_INCREMENT,
-                                                          `brand_name` VARCHAR(255) NOT NULL,
-                                                          `version` INT,
-                                                          `created_date` DATETIME(6) DEFAULT NULL,
-                                                          `update_date` DATETIME(6) DEFAULT NULL,
-                                                          PRIMARY KEY (`id`)
+CREATE TABLE IF NOT EXISTS `full-stack-eshop`.`brand`
+(
+    `id`           BIGINT(20)   NOT NULL AUTO_INCREMENT,
+    `brand_name`   VARCHAR(255) NOT NULL,
+    `version`      INT,
+    `created_date` DATETIME(6) DEFAULT NULL,
+    `update_date`  DATETIME(6) DEFAULT NULL,
+    PRIMARY KEY (`id`)
 )
-    ENGINE=InnoDB
+    ENGINE = InnoDB
     AUTO_INCREMENT = 1;
+
+
+
 -- Product Category Table
-CREATE TABLE IF NOT EXISTS `full-stack-eshop`.`product_category` (
-    `id` BIGINT(20) NOT NULL AUTO_INCREMENT,
+CREATE TABLE IF NOT EXISTS `full-stack-eshop`.`product_category`
+(
+    `id`            BIGINT(20)   NOT NULL AUTO_INCREMENT,
     `category_name` VARCHAR(255) NULL DEFAULT NULL,
-    PRIMARY KEY (`id`))
-    ENGINE=InnoDB
+    PRIMARY KEY (`id`)
+)
+    ENGINE = InnoDB
     AUTO_INCREMENT = 1;
 
 
@@ -44,3 +50,20 @@ CREATE TABLE IF NOT EXISTS `full-stack-eshop`.`product` (
     ENGINE=InnoDB
     AUTO_INCREMENT = 1;
 
+
+
+CREATE TABLE `country` (
+                           `id` SMALLINT UNSIGNED NOT NULL,
+                           `code` VARCHAR(2) DEFAULT NULL,
+                           `name` VARCHAR(255) DEFAULT NULL,
+                           PRIMARY KEY (`id`)
+) ENGINE=InnoDB;
+
+CREATE TABLE `state` (
+                         `id` SMALLINT UNSIGNED NOT NULL AUTO_INCREMENT,
+                         `name` VARCHAR(255) DEFAULT NULL,
+                         `country_id` SMALLINT UNSIGNED NOT NULL,
+                         PRIMARY KEY (`id`),
+                         KEY `fk_country` (`country_id`),
+                         CONSTRAINT `fk_country` FOREIGN KEY (`country_id`) REFERENCES `country` (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=1;
