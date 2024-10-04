@@ -14,17 +14,17 @@ Unnamed: 0,name,image,price,stock_quantity,brand,category
 12,FALCON3,FALCON3.png,15000,76,AGROMASZ,Planters
 13,POV 5 XL,POV 5 XL.png,16000,90,AGROMASZ,Plows
 14,Bale King,Bale King.png,5600,39,ALBUTT,Front Loader Tools
-15,$l10n_shopItem_frontloaderBaleFork,$l10n_shopItem_frontloaderBaleFork.png,600,75,ALBUTT,Front Loader Tools
-16,$l10n_shopItem_frontloaderLogFork,$l10n_shopItem_frontloaderLogFork.png,3000,50,ALBUTT,Front Loader Tools
-17,$l10n_shopItem_frontloaderManureFork,$l10n_shopItem_frontloaderManureFork.png,1500,3,ALBUTT,Front Loader Tools
-18,$l10n_shopItem_frontloaderManureGrabFork,$l10n_shopItem_frontloaderManureGrabFork.png,2900,69,ALBUTT,Front Loader Tools
-19,$l10n_shopItem_frontloaderPalletFork,$l10n_shopItem_frontloaderPalletFork.png,1700,73,ALBUTT,Front Loader Tools
-20,$l10n_shopItem_frontloaderRoundBaleFork,$l10n_shopItem_frontloaderRoundBaleFork.png,1600,44,ALBUTT,Front Loader Tools
-21,$l10n_shopItem_frontloaderShovel,$l10n_shopItem_frontloaderShovel.png,1600,3,ALBUTT,Front Loader Tools
-22,$l10n_shopItem_frontloaderSilageCutter,$l10n_shopItem_frontloaderSilageCutter.png,3500,71,ALBUTT,Front Loader Tools
-23,$l10n_shopItem_frontloaderBaleGrab,$l10n_shopItem_frontloaderBaleGrab.png,1700,9,ALBUTT,Front Loader Tools
-24,$l10n_shopItem_telehandlerLogFork,$l10n_shopItem_telehandlerLogFork.png,6500,41,ALBUTT,Wheel Loader Tools
-25,$l10n_shopItem_wheelLoaderSilageFork,$l10n_shopItem_wheelLoaderSilageFork.png,10500,74,ALBUTT,Wheel Loader Tools
+15,frontloaderBaleFork,frontloaderBaleFork.png,600,75,ALBUTT,Front Loader Tools
+16,frontloaderLogFork,frontloaderLogFork.png,3000,50,ALBUTT,Front Loader Tools
+17,frontloaderManureFork,frontloaderManureFork.png,1500,3,ALBUTT,Front Loader Tools
+18,frontloaderManureGrabFork,frontloaderManureGrabFork.png,2900,69,ALBUTT,Front Loader Tools
+19,frontloaderPalletFork,frontloaderPalletFork.png,1700,73,ALBUTT,Front Loader Tools
+20,frontloaderRoundBaleFork,frontloaderRoundBaleFork.png,1600,44,ALBUTT,Front Loader Tools
+21,frontloaderShovel,frontloaderShovel.png,1600,3,ALBUTT,Front Loader Tools
+22,frontloaderSilageCutter,frontloaderSilageCutter.png,3500,71,ALBUTT,Front Loader Tools
+23,frontloaderBaleGrab,frontloaderBaleGrab.png,1700,9,ALBUTT,Front Loader Tools
+24,telehandlerLogFork,telehandlerLogFork.png,6500,41,ALBUTT,Wheel Loader Tools
+25,wheelLoaderSilageFork,wheelLoaderSilageFork.png,10500,74,ALBUTT,Wheel Loader Tools
 26,Maratona MG-300,Maratona MG-300.png,19500,25,ALPEGO,Disc Harrows
 27,Rotodent RmaX-300,Rotodent RmaX-300.png,16500,30,ALPEGO,Power Harrows
 28,Cenio 4000 Super,Cenio 4000 Super.png,19500,82,AMAZONE,Cultivators
@@ -191,7 +191,7 @@ Unnamed: 0,name,image,price,stock_quantity,brand,category
 189,Noah TTW 140,Noah TTW 140.png,25000,42,FLIEGL,Animal Transport
 190,PFW 18000 MaxxLine Plus,PFW 18000 MaxxLine Plus.png,95000,65,FLIEGL,Slurry Tanks
 191,Ruby 2000,Ruby 2000.png,15500,17,FLIEGL,Front Loader Tools
-192,$l10n_shopItem_silageRoller,$l10n_shopItem_silageRoller.png,7500,96,FLIEGL,Silocompaction
+192,silageRoller,silageRoller.png,7500,96,FLIEGL,Silocompaction
 193,Timber Runner,Timber Runner.png,39000,48,FLIEGL,Wood
 194,TMK 273,TMK 273.png,55000,83,FLIEGL,Trailers
 195,LWS 12000,LWS 12000.png,39000,43,FUHRMANN,Grape Tools
@@ -268,7 +268,7 @@ Unnamed: 0,name,image,price,stock_quantity,brand,category
 266,EFG S50,EFG S50.png,55000,62,JUNGHEINRICH,Forklifts
 267,ETV 216i,ETV 216i.png,39500,22,JUNGHEINRICH,Forklifts
 268,Radium 255,Radium 255.png,68500,44,KAWECO,Trailers
-269,$l10n_shopItem_comfortSupportWheel,$l10n_shopItem_comfortSupportWheel.png,2000,53,KEMPER,Forage Harvester Cutters
+269,comfortSupportWheel,comfortSupportWheel.png,2000,53,KEMPER,Forage Harvester Cutters
 270,3003,3003.png,20500,42,KEMPER,Forage Harvester Cutters
 271,345 Plus,345 Plus.png,60000,16,KEMPER,Forage Harvester Cutters
 272,360 Plus,360 Plus.png,80000,13,KEMPER,Forage Harvester Cutters
@@ -361,15 +361,15 @@ Unnamed: 0,name,image,price,stock_quantity,brand,category
 359,Anthem 6x4,Anthem 6x4.png,93500,42,MACK,Trucks
 360,Pinnacle 6x4,Pinnacle 6x4.png,93500,21,MACK,Trucks
 361,Super-Liner 6x4,Super-Liner 6x4.png,110000,12,MACK,Trucks
-362,$l10n_shopItem_telehandlerBaleFork,$l10n_shopItem_telehandlerBaleFork.png,900,74,MAGSI,Tele Loader Tools
-363,$l10n_shopItem_telehandlerBaleGrab,$l10n_shopItem_telehandlerBaleGrab.png,1500,86,MAGSI,Tele Loader Tools
-364,$l10n_shopItem_telehandlerFork,$l10n_shopItem_telehandlerFork.png,2000,2,MAGSI,Tele Loader Tools
-365,$l10n_shopItem_telehandlerLogFork,$l10n_shopItem_telehandlerLogFork.png,3300,71,MAGSI,Tele Loader Tools
-366,$l10n_shopItem_telehandlerManureFork,$l10n_shopItem_telehandlerManureFork.png,3400,10,MAGSI,Tele Loader Tools
-367,$l10n_shopItem_telehandlerShovel,$l10n_shopItem_telehandlerShovel.png,2200,45,MAGSI,Tele Loader Tools
-368,$l10n_shopItem_wheelLoaderFork,$l10n_shopItem_wheelLoaderFork.png,2500,38,MAGSI,Wheel Loader Tools
-369,$l10n_shopItem_wheelLoaderLogFork,$l10n_shopItem_wheelLoaderLogFork.png,5500,38,MAGSI,Wheel Loader Tools
-370,$l10n_shopItem_wheelLoaderHighDumpBucket,$l10n_shopItem_wheelLoaderHighDumpBucket.png,14000,10,MAGSI,Wheel Loader Tools
+362,telehandlerBaleFork,telehandlerBaleFork.png,900,74,MAGSI,Tele Loader Tools
+363,telehandlerBaleGrab,telehandlerBaleGrab.png,1500,86,MAGSI,Tele Loader Tools
+364,telehandlerFork,telehandlerFork.png,2000,2,MAGSI,Tele Loader Tools
+365,telehandlerLogFork,telehandlerLogFork.png,3300,71,MAGSI,Tele Loader Tools
+366,telehandlerManureFork,telehandlerManureFork.png,3400,10,MAGSI,Tele Loader Tools
+367,telehandlerShovel,telehandlerShovel.png,2200,45,MAGSI,Tele Loader Tools
+368,wheelLoaderFork,wheelLoaderFork.png,2500,38,MAGSI,Wheel Loader Tools
+369,wheelLoaderLogFork,wheelLoaderLogFork.png,5500,38,MAGSI,Wheel Loader Tools
+370,wheelLoaderHighDumpBucket,wheelLoaderHighDumpBucket.png,14000,10,MAGSI,Wheel Loader Tools
 371,Retriever 1000,Retriever 1000.png,17200,86,MAHINDRA,Cars
 372,TGS 18.500 4x4,TGS 18.500 4x4.png,130000,61,MAN,Trucks
 373,TGX 26.640,TGX 26.640.png,180000,33,MAN,Wood Harvesting
@@ -391,9 +391,9 @@ Unnamed: 0,name,image,price,stock_quantity,brand,category
 389,MF 7720 S,MF 7720 S.png,199500,75,MASSEYFERGUSON,Tractors M
 390,MF 7S,MF 7S.png,125500,20,MASSEYFERGUSON,Tractors M
 391,MF 8S,MF 8S.png,192000,95,MASSEYFERGUSON,Tractors M
-392,$l10n_shopItem_telehandlerBaleFork,$l10n_shopItem_telehandlerBaleFork.png,5900,35,MCCORMACK,Wheel Loader Tools
+392,telehandlerBaleFork,telehandlerBaleFork.png,5900,35,MCCORMACK,Wheel Loader Tools
 393,Cotton Tag Trailer,Cotton Tag Trailer.png,89000,12,MCCORMACK,Cotton Harvesting
-394,$l10n_shopItem_wheelLoaderHighDumpBucket,$l10n_shopItem_wheelLoaderHighDumpBucket.png,15000,77,MCCORMACK,Wheel Loader Tools
+394,wheelLoaderHighDumpBucket,wheelLoaderHighDumpBucket.png,15000,77,MCCORMACK,Wheel Loader Tools
 395,Cotton Wheelie Grab,Cotton Wheelie Grab.png,12500,91,MCCORMACK,Cotton Harvesting
 396,X7 VT-Drive,X7 VT-Drive.png,170500,42,MCCORMICK,Tractors M
 397,X8 VT-Drive,X8 VT-Drive.png,220000,85,MCCORMICK,Tractors M
@@ -427,13 +427,13 @@ Unnamed: 0,name,image,price,stock_quantity,brand,category
 425,TK4.80 Methane Power,TK4.80 Methane Power.png,57500,13,NEWHOLLAND,Tractors S
 426,HK 25,HK 25.png,14500,13,NORDSTEN,Power Harrows
 427,HK 25 + NS 3030,HK 25 + NS 3030.png,33500,47,NORDSTEN,Seeders
-428,$l10n_shopItem_telehandlerBaleGrab,$l10n_shopItem_telehandlerBaleGrab.png,1700,94,PALADIN,Skid Steer Tools
-429,$l10n_shopItem_skidSteerBaleFork,$l10n_shopItem_skidSteerBaleFork.png,600,18,PALADIN,Skid Steer Tools
-430,$l10n_shopItem_skidSteerHighDumpBucket,$l10n_shopItem_skidSteerHighDumpBucket.png,4000,45,PALADIN,Skid Steer Tools
-431,$l10n_shopItem_skidSteerManureFork,$l10n_shopItem_skidSteerManureFork.png,2100,3,PALADIN,Skid Steer Tools
-432,$l10n_shopItem_frontloaderPalletFork,$l10n_shopItem_frontloaderPalletFork.png,800,60,PALADIN,Skid Steer Tools
-433,$l10n_shopItem_skidSteerStumpCutter,$l10n_shopItem_skidSteerStumpCutter.png,2500,22,PALADIN,Skid Steer Tools
-434,$l10n_shopItem_skidSteerLogFork,$l10n_shopItem_skidSteerLogFork.png,2000,20,PALADIN,Skid Steer Tools
+428,telehandlerBaleGrab,telehandlerBaleGrab.png,1700,94,PALADIN,Skid Steer Tools
+429,skidSteerBaleFork,skidSteerBaleFork.png,600,18,PALADIN,Skid Steer Tools
+430,skidSteerHighDumpBucket,skidSteerHighDumpBucket.png,4000,45,PALADIN,Skid Steer Tools
+431,skidSteerManureFork,skidSteerManureFork.png,2100,3,PALADIN,Skid Steer Tools
+432,frontloaderPalletFork,frontloaderPalletFork.png,800,60,PALADIN,Skid Steer Tools
+433,skidSteerStumpCutter,skidSteerStumpCutter.png,2500,22,PALADIN,Skid Steer Tools
+434,skidSteerLogFork,skidSteerLogFork.png,2000,20,PALADIN,Skid Steer Tools
 435,AT5104 LNMS,AT5104 LNMS.png,381000,97,OXBO,Slurry Vehicles
 436,ALPINHIT 4.4 H,ALPINHIT 4.4 H.png,7000,95,POETTINGER,Tedders
 437,BOSS ALPIN 251,BOSS ALPIN 251.png,30500,85,POETTINGER,Loader Wagons
